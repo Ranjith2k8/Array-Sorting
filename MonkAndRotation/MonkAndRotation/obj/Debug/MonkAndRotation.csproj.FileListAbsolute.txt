@@ -1,0 +1,7 @@
+D:\HackerEarth\Array-Sorting\Array-Sorting\MonkAndRotation\MonkAndRotation\bin\Debug\MonkAndRotation.exe.config
+D:\HackerEarth\Array-Sorting\Array-Sorting\MonkAndRotation\MonkAndRotation\bin\Debug\MonkAndRotation.exe
+D:\HackerEarth\Array-Sorting\Array-Sorting\MonkAndRotation\MonkAndRotation\bin\Debug\MonkAndRotation.pdb
+D:\HackerEarth\Array-Sorting\Array-Sorting\MonkAndRotation\MonkAndRotation\obj\Debug\MonkAndRotation.csproj.AssemblyReference.cache
+D:\HackerEarth\Array-Sorting\Array-Sorting\MonkAndRotation\MonkAndRotation\obj\Debug\MonkAndRotation.csproj.CoreCompileInputs.cache
+D:\HackerEarth\Array-Sorting\Array-Sorting\MonkAndRotation\MonkAndRotation\obj\Debug\MonkAndRotation.exe
+D:\HackerEarth\Array-Sorting\Array-Sorting\MonkAndRotation\MonkAndRotation\obj\Debug\MonkAndRotation.pdb
